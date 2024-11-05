@@ -24,4 +24,4 @@ To run the file:
 
 
 
-=> After the inserting your photo to the folder, when the system finds a match it will take photo in the red region and store it in criminal_face folder # Face_recognition_system_for_legalForce
+=> After inserting your photo to the folder, when the system finds a match it will take photo in the red region and store it in criminal_face folder # Face_recognition_system_for_legalForce
